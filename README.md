@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Leonid <a href="https://t.me/AABenzino" target="blank"><img src="./icons/twitter-verified-badge-svgrepo-com.svg" align="top" height="25" alt="verified"/></a></h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Benzogang-Tape&label=Profile%20views&color=0e75b6&style=flat" alt="Benzogang-Tape" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DanKazh&label=Profile%20views&color=0e75b6&style=flat" alt="DanKazh" /></p>
 
 
 * <h3 align="left">Backend Developer</h3>
